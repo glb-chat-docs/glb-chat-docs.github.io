@@ -24,6 +24,7 @@ when cloudmessanger changes, the code sets off a flag, grabs cloudmessanger and 
 
 # Section 2 - outsides
 
+## 2.1 - cloud variable status indicator
 to tell if the cloud variables are down, there is a {heartbeat} variable that the user can examine. it flashes 0 1 0 1 and changes once every second. it is tied to qwerty_68594, my alternate account i use for server stuff.
 
 if you need me to add anything else to the documentation, please leave a comment on the scratch project and i will get to you whenever i can!
